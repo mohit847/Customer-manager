@@ -1,0 +1,362 @@
+[
+      {
+            "id": 1,
+            "firstName": "Mohit",
+            "lastName": "Kumar",
+            "gender": "male",
+            "address": "1234 sector 17.",
+            "city": " Ludhiana ",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Basketball", "itemCost": 7.99},
+                {"productName": "Shoes", "itemCost": 199.99}
+            ],
+            "latitude": 33.299,
+            "longitude": -111.963
+      },
+      {
+            "id": 2,
+            "firstName": "Ritika",
+            "lastName": "Dhiman",
+            "gender": "female",
+            "address": "458 jeevan colony",
+            "city": " Jalandhar ",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Frisbee", "itemCost": 2.99},
+                {"productName": "Hat", "itemCost": 5.99}
+            ],
+            "latitude": 33.037,
+            "longitude": -117.291
+      },
+      {
+            "id": 3,
+            "firstName": "Rohit",
+            "lastName": "singh",
+            "gender": "male",
+            "address": "147 jeet nagar",
+            "city": " pahagwara ",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Boomerang", "itemCost": 29.99},
+                {"productName": "Helmet", "itemCost": 19.99},
+                {"productName": "Kangaroo Saddle", "itemCost": 179.99}
+            ],
+            "latitude": 47.596,
+            "longitude": -122.331
+      },
+      {
+            "id": 4,
+            "firstName": "Ananya",
+            "lastName": "vats",
+            "gender": "female",
+            "address": "447 kamlesh nagar",
+            "city": "Agra",
+            "state": {
+                "abbreviation": "UP",
+                "name": " Uttar pradesh "
+            },
+            "orders": [
+                {"productName": "Budgie Smugglers", "itemCost": 19.99},
+                {"productName": "Swimming Cap", "itemCost": 5.49}
+            ],
+            "latitude": 33.299,
+            "longitude": -111.963
+      },
+      {
+            "id": 5,
+            "firstName": "jitender",
+            "lastName": "kumar",
+            "gender": "male",
+            "address": "456 sherpur ",
+            "city": " pahagwara ",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Bow", "itemCost": 399.99},
+                {"productName": "Arrows", "itemCost": 69.99}
+            ],
+            "latitude": 32.782927,
+            "longitude": -96.806191
+      },
+      {
+            "id": 6,
+            "firstName": "Nikhil",
+            "lastName": "Kumar",
+            "gender": "male",
+            "address": "564 nanuak",
+            "city": "Patna",
+            "state": {
+                "abbreviation": "Bh",
+                "name": "Bihar"
+            },
+            "orders": [
+                {"productName": "Baseball", "itemCost": 9.99},
+                {"productName": "Bat", "itemCost": 19.99}
+            ],
+            "latitude": 28.384238,
+            "longitude": -81.564103
+      },
+      {
+            "id": 7,
+            "firstName": "Mohan",
+            "lastName": "verma",
+            "gender": "male",
+            "address": "912 vijaya nagar",
+            "city": " Jalandhar ",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Surfboard", "itemCost": 299.99},
+                {"productName": "Wax", "itemCost": 5.99},
+                {"productName": "Shark Repellent", "itemCost": 15.99}
+            ],
+            "latitude": 35.727985,
+            "longitude": -78.797594
+      },
+      {
+            "id": 8,
+            "firstName": "Aarti",
+            "lastName": "Sharma",
+            "gender": "female",
+            "address": "451 bihan nagar",
+            "city": "Patiala",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Saddle", "itemCost": 599.99},
+                {"productName": "Riding cap", "itemCost": 79.99}
+            ],
+            "latitude": 33.809898,
+            "longitude": -117.918757
+      },
+      {
+            "id": 9,
+            "firstName": "Ravi",
+            "lastName": "sharma",
+            "gender": "male",
+            "address": "686 amar nagar",
+            "city": " Amritsar",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Baseball", "itemCost": 9.99},
+                {"productName": "Bat", "itemCost": 19.99}
+            ],
+            "latitude": 28.384238,
+            "longitude": -81.564103
+      },
+      {
+            "id": 10,
+            "firstName": "Simranjeet",
+            "lastName": "Kaur",
+            "gender": "female",
+            "address": "145 Harinder nagar",
+            "city": " Patiala",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Surfboard", "itemCost": 299.99},
+                {"productName": "Wax", "itemCost": 5.99},
+                {"productName": "Shark Repellent", "itemCost": 7.99}
+            ],
+            "latitude": 33.762297, 
+            "longitude": -84.392953
+      },
+      {
+            "id": 11,
+            "firstName": "Aroosa",
+            "lastName": "Verma",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 34.042552,
+            "longitude": -118.266429
+      },
+      {
+            "id": 12,
+            "firstName": "jitu",
+            "lastName": "sharma",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 32.782927,
+            "longitude": -96.806191
+      },
+      {
+            "id": 13,
+            "firstName": "Abhisek",
+            "lastName": "nayak",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Car", "itemCost": 42999.99},
+                {"productName": "Wax", "itemCost": 5.99},
+                {"productName": "Shark Repellent", "itemCost": 7.99}
+            ],
+            "latitude": 40.725037,
+            "longitude": -74.004903
+      },
+      {
+            "id": 14,
+            "firstName": "Kirti",
+            "lastName": "singh",
+            "gender": "female",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 40.725037,
+            "longitude": -74.004903
+      },
+      {
+            "id": 15,
+            "firstName": "Rehan",
+            "lastName": "Dinesh",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 41.028726,
+            "longitude": -73.758261
+      },
+      {
+            "id": 16,
+            "firstName": "Ayushi",
+            "lastName": "Mishra",
+            "gender": "female",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 36.091824,
+            "longitude": -115.174247
+      },
+      {
+            "id": 17,
+            "firstName": "Ayush",
+            "lastName": "Mishra",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 29.750163,
+            "longitude": -95.362769
+      },
+      {
+            "id": 18,
+            "firstName": "Rishika",
+            "lastName": "nag",
+            "gender": "female",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 47.596,
+            "longitude": -122.331
+      },
+      {
+            "id": 19,
+            "firstName": "Swasti",
+            "lastName": "kapur",
+            "gender": "female",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 41.386444, 
+            "longitude": 2.111988
+      },
+      {
+            "id": 20,
+            "firstName": "Nidhi",
+            "lastName": "Mahawan",
+            "gender": "female",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": 64.120278, 
+            "longitude": -21.830471
+      },
+      {
+            "id": 21,
+            "firstName": "Abhishek",
+            "lastName": "Banerjee",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "orders": [
+                {"productName": "Baseball", "itemCost": 9.99},
+                {"productName": "Bat", "itemCost": 19.99}
+            ],
+            "latitude": 47.341337, 
+            "longitude": 8.582503
+      },
+      {
+            "id": 22,
+            "firstName": "Dhruv",
+            "lastName": "sehgal",
+            "gender": "male",
+            "address": "112 New nagar",
+            "city": "Ludhiana",
+            "state": {
+                "abbreviation": "PB",
+                "name": "Punjab"
+            },
+            "latitude": -22.919369, 
+            "longitude": -43.181836
+      }
+]
